@@ -1,0 +1,3 @@
+# Memo
+This is a simple memo with function of inserting data, updating date and deleting data.
+Updating...
